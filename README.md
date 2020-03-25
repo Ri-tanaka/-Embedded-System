@@ -34,7 +34,8 @@
 
 ## フローチャート
 このプログラムのフローチャート図を以下に示す。
-<img src="flowchart.png" width="330" height=800px >
+
+<img src="flowchart.png" width="450" height=700px >
 
 
 
