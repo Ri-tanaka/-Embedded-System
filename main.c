@@ -14,7 +14,7 @@
 #include	"dynamic_disp.h"		/* 7セグメントLED制御ヘッダファイル*/
 
 
-/* プロ		トタイプ宣言 */
+/* プロトタイプ宣言 */
 void main(void);				/* メイン関数*/
 void Variable_init(void);			/* 変数初期化処理*/
 void Interrupt_5ms(void);			/* 割込み関数*/
